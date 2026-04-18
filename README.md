@@ -7,9 +7,13 @@ Contexto e Objetivos:
 Curadoria de Fontes: Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que você selecionou e fez o upload no NotebookLM.
 
 http://educa.fcc.org.br/scielo.php?script=sci_arttext&pid=S1981-04312023000100104
+
 https://anpad.com.br/uploads/articles/120/approved/876e1c59023b1a0e95808168e1a8ff89.pdf
+
 NEURODIVERSIDADE E OS TRAÇOS NEURODIVERGENTES NÃO EVIDENTES: GUIAS DE BOAS PRÁTICAS INSTITUCIONAIS E UM MODELO PARA INCLUSÃO NO ENSINO SUPERIOR E NO AMBIENTE DE TRABALHO
+
 https://youtu.be/u0a3t4-lxk8?si=c3RBpdXnVdSoKHJW
+
 https://youtu.be/Nq56cM1qGkI?si=zGHvbqdYPK-pWPRC
 
 Engenharia de Prompts e "Cicatrizes":
