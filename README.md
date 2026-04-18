@@ -148,4 +148,9 @@ Com o intuito de apoiar futuras revisões e aprofundamentos sobre a neurodiversi
 ### 6. Teorias e Modelos Relacionais
 *   **Prompt:** "Explique o **Problema da Dupla Empatia** e como ele desafia a ideia de que a dificuldade de comunicação é um 'déficit' exclusivo da pessoa autista. Como a **Teoria da Autodeterminação (SDT)** pode ser aplicada para aumentar a vitalidade e o bem-estar de trabalhadores neurodivergentes através da satisfação das necessidades de autonomia, competência e pertencimento?."
 *   **Objetivo:** Aplicar modelos teóricos para entender a interdependência e o sucesso social.
-       
+
+
+
+### Link do NotebookLM
+
+https://notebooklm.google.com/notebook/3be49c9b-ec29-46f2-b391-b85ccc2560f6
